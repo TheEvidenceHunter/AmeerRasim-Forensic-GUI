@@ -1,3 +1,7 @@
+> **Forensic Studio (GUI)** - a modern bilingual (English/العربية) desktop front-end for this framework:
+> case management, evidence hashing, plugin queue, sortable tables, automated MITRE-mapped findings and HTML reports.
+> See [README_FORENSIC_STUDIO.md](README_FORENSIC_STUDIO.md). Run: `pip install -e ".[gui]" && python forensic_studio.py`
+
 # Volatility 3: The volatile memory extraction framework
 
 Volatility is the world's most widely used framework for extracting digital

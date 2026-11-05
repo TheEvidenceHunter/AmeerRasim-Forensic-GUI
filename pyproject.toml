@@ -32,6 +32,8 @@ full = [
     "pillow>=10.0.0,<11.0.0",
 ]
 
+gui = ["PySide6-Essentials>=6.6,<7"]
+
 cloud = ["gcsfs>=2024.10.0", "s3fs>=2024.10.0"]
 
 dev = [
@@ -68,11 +70,14 @@ issues = "https://github.com/volatilityfoundation/volatility3/issues"
 vol = "volatility3.cli:main"
 volshell = "volatility3.cli.volshell:main"
 
+[project.gui-scripts]
+forensic-studio = "forensic_gui.app:main"
+
 [tool.setuptools.dynamic]
 version = { attr = "volatility3.framework.constants._version.PACKAGE_VERSION" }
 
 [tool.setuptools.packages.find]
-include = ["volatility3*"]
+include = ["volatility3*", "forensic_gui*"]
 
 [tool.mypy]
 mypy_path = "./stubs"
