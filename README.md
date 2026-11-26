@@ -5,6 +5,11 @@ Forensic Studio 2.0 is a modern, bilingual (English / العربية) desktop gr
 ---
 
 ## Key Features
+<img width="1456" height="819" alt="photo_2026-11-26_13-33-32" src="https://github.com/user-attachments/assets/383a5ef8-3e83-4b49-939a-29067e516a38" />
+
+<img width="1456" height="819" alt="photo_2026-11-22_22-13-00" src="https://github.com/user-attachments/assets/bf7f7446-3c4f-4c7e-8c49-dad40dd37244" />
+
+<img width="1456" height="819" alt="photo_2026-11-22_22-12-59" src="https://github.com/user-attachments/assets/e080f986-05bd-4fb4-b7d0-f7aee3e2ecd9" />
 
 * Evidence Integrity & Case Management: Computes MD5, SHA-1, and SHA-256 hashes automatically upon ingestion and ensures read-only handling of memory dumps.
 * Automated Analysis & Job Queue: Eliminates command-line complexity with pre-built triage scenarios, a searchable plugin catalog, and a sequential execution queue.
