@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/github/1146947486.svg)](https://doi.org/10.5281/zenodo.24563750)
+
 # Forensic Studio 2.0
 
 Forensic Studio 2.0 is a modern, bilingual (English / العربية) desktop graphical user interface (GUI) built on top of the Volatility 3 memory forensics framework. It guides investigators through a structured, non-destructive workflow—from raw memory image hashing to automated MITRE ATT&CK threat mapping and ready-to-deliver forensic reports.
